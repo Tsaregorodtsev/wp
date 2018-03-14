@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2018-03-14 12:00:30
 ---
-<img src="http://tsaregorodtsev.ikt.khk.ee/img/Desert.jpg" alt="Desert" />
-<img src="http://tsaregorodtsev.ikt.khk.ee/img/bh.jpg" alt="Black hole" />
-<img src="http://tsaregorodtsev.ikt.khk.ee/img/forest.jpg" alt="Forest" />
+[caption id="" align="alignnone" width="1024"]<img src="http://tsaregorodtsev.ikt.khk.ee/img/Desert.jpg" alt="Desert" width="1024" height="768" /> See on pilt[/caption]
