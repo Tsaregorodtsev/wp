@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2018-03-09 07:56:15
 ---
-Siin lehes on kirjas kontakt andmed ning on toodud kaart.
-
 https://goo.gl/maps/iDQSxjE41UM2
