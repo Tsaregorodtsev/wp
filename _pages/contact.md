@@ -5,8 +5,10 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://tsaregorodtsev.ikt.khk.ee/wordpress/contact/
+  http://tsaregorodtsev.ikt.khk.ee/wordpress/?page_id=9
 published: true
 post_date: 2018-03-09 07:56:15
 ---
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+Siin lehes on kirjas kontakt andmed ning on toodud kaart.
+
+<a href="https://goo.gl/maps/iDQSxjE41UM2"></a>
