@@ -5,8 +5,8 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://tsaregorodtsev.ikt.khk.ee/wordpress/?page_id=33
+  http://tsaregorodtsev.ikt.khk.ee/wordpress/
 published: true
 post_date: 2018-03-14 12:00:30
 ---
-See on avaleht
+<img src="http://tsaregorodtsev.ikt.khk.ee/img/Desert.jpg" alt="Desert" />
