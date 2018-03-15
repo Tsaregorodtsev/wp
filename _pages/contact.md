@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: Kontact
+post_title: Kontakt
 author: admin
 post_excerpt: ""
 layout: page
