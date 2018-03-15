@@ -17,4 +17,4 @@ If you’re the owner of a pet that sheds, you might want to clean your computer
 
 In short, if you keep your computer off the floor, don’t smoke, and don’t have shedding pets, you can probably get away with cleaning your computer once per year. If any of those things do pertain to you, you might want to clean your computer every 6, or even 3, months. And, as always, if your computer starts getting hotter than usual, open it up to check for any dust or hair buildup and then clean it.
 
-<img src="https://www.howtogeek.com/wp-content/uploads/2017/08/cc_1.png" alt="Wiring" />
+<img src="https://www.howtogeek.com/wp-content/uploads/2017/08/cc_1.png" alt="Wiring" /><!--more-->
