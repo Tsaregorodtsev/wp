@@ -1,7 +1,7 @@
 ---
 ID: 85
 post_title: 'Kui tihti on vaja puhastada arvuti [English]'
-author: admin
+author: Vladislav
 post_excerpt: ""
 layout: post
 permalink: >
