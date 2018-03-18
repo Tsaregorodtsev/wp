@@ -1,6 +1,6 @@
 ---
 ID: 128
-post_title: WordPress to Buffer plugin
+post_title: 'WordPress to Buffer plugin [Facebook]'
 author: Vladislav
 post_excerpt: ""
 layout: post
