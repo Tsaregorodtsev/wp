@@ -9,4 +9,5 @@ permalink: >
 published: true
 post_date: 2018-03-18 10:46:43
 ---
-test
+Kasutatav plugin :
+https://wordpress.org/plugins/wp-to-buffer/
